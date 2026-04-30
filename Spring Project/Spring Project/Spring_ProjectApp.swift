@@ -1,14 +1,14 @@
 //
-//  moble_dev_trackApp.swift
-//  moble dev track
+//  Spring_ProjectApp.swift
+//  Spring Project
 //
-//  Created by Nishad Thomas on 4/23/26.
+//  Created by Nishad Thomas on 4/29/26.
 //
 
 import SwiftUI
 
 @main
-struct moble_dev_trackApp: App {
+struct Spring_ProjectApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

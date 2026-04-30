@@ -15,7 +15,7 @@ struct AboutMisterCam: View {
                 .aspectRatio(contentMode: .fit)
                 .clipShape(RoundedRectangle(cornerRadius:
                                                 20))
-                .padding(1) 
+                .padding(1)
             
             HStack {
                 Image("picture")
